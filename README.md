@@ -16,7 +16,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 - Then, you must export your Resolve marker like EDL file, by right clicking on the Timeline with the timestamp, then going to Timelines > Export > Timeline Marker to EDL;
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130809429-d946a9f3-ac86-4391-9205-bc62e83d4d43.png)
-- Make sure that the exported EDL File is **on your Desktop**;
+- Make sure that **the exported EDL File** and **the program (EXE File)** is **on your Desktop**: if there isn't a file, the script will **fail** :(
 - Finally, you can run the program;
 - You will see a Box, **write the exactly name** of exported file (EDL with markers) and press Enter.
 
