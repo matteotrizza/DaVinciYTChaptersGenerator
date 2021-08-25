@@ -23,3 +23,6 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 ![immagine](https://user-images.githubusercontent.com/81535145/130815163-122f8e83-5bcb-4805-93c0-6d119bd33033.png)
 
 - Boom! Now you will see a new file on your Desktop, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
+---
+# Download
+You can download EXE file form [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/StableVersion/DaVinciYTChaptersGenerator.exe), and the code from [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/StableVersion/Code.for.Developer.ahk) (first read [the notes](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/blob/main/Developers%20Docs.md))
