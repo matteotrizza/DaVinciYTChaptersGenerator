@@ -17,7 +17,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130809429-d946a9f3-ac86-4391-9205-bc62e83d4d43.png)
 - Make sure that **the exported EDL File** and **the program (EXE File)** is **in the same folder**: if there isn't a file, the script will **fail** :(
-- Finally, you can run the program;
+- Finally, you can run the program (if you run the program for the first time, your PC may be reporting security issues, but don't warry, I'm not here to steal your data :).
 - You will see a Box, **write the exactly name** of exported file (EDL with markers) and press Enter.
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130815163-122f8e83-5bcb-4805-93c0-6d119bd33033.png)
