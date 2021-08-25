@@ -10,7 +10,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 - You can also have Windows XP, the script will still work.
 
 ## Instructions
-- Make sure that the markers you want to convert in YouTube chapters are **Cyan** and the **title of evety marker is the description you want to give to the specific chapter**;
+- Make sure that the markers you want to convert in YouTube chapters are **Cyan** and the **title of every marker is the description you want to give to the specific chapter**;
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130810681-cb46af70-de34-44d2-9d38-8946864d7d15.png)
 - Then, you must export your Resolve marker like EDL file, by right clicking on the Timeline with the timestamp, then going to Timelines > Export > Timeline Marker to EDL;
@@ -20,7 +20,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 - Finally, you can run the program (if you run the program for the first time, your PC may be reporting security issues, but don't warry, I'm not here to steal your data :).
 - You will see a Box, **write the exactly name** of exported file (EDL with markers) and press Enter.
 
-![immagine](https://user-images.githubusercontent.com/81535145/130815163-122f8e83-5bcb-4805-93c0-6d119bd33033.png)
+![immagine](https://user-images.githubusercontent.com/81535145/130871010-3897aa38-0f88-4aba-8cb3-5743174299f7.png)
 
 - Boom! Now you will see a new file in the origin folder, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
 ---
