@@ -8,6 +8,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 ## Requirements
 - You need a Windows PC, the program in not compatible with Mac or Linux.
 - You can also have Windows XP, the script will still work.
+- The program create your chapter only with the timeline-marker, it doesn't convert clip-markers
 
 ## Instructions
 - Make sure that the markers you want to convert in YouTube chapters are **Cyan** and the **title of every marker is the description you want to give to the specific chapter**;
