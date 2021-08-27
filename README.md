@@ -12,6 +12,7 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 
 ## Instructions
 - Make sure that the markers you want to convert in YouTube chapters are **Cyan** and the **title of every marker is the description you want to give to the specific chapter**;
+- The last marker (the outro of your video) must be called "Conclusione" (Yes, it's in Italian, because i'm italian, sorry :)
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130810681-cb46af70-de34-44d2-9d38-8946864d7d15.png)
 - Then, you must export your Resolve marker like EDL file, by right clicking on the Timeline with the timestamp, then going to Timelines > Export > Timeline Marker to EDL;
