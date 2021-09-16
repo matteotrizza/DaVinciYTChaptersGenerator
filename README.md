@@ -4,6 +4,11 @@ Hi! This is a software that can help you to generate YouTube Chapters form DaVin
 ## Version
 - For export your marker file, you need DaVinci Resolve 17;
 - When there is a new **stable** version of DaVinci, the software will be updated.
+### PLEASE READ!
+Sometimes, on some PCs, DaVinci Resolve has a bug that creates problems in the management of hours:
+- Sometimes, by positioning the playback head at **video start**, a time equal to 01: 00: 00: 00 is indicated (as if we were already 1 hour of video);
+- In other cases, on other PCs, this problem is not present.
+For this, I ask you to PAY ATTENTION to which version of DaVinciYTChaptersGenerator to download: to check, go to DaVinci, open any project (or create a new one) and go to the beginning of the timeline. If the time indicator shows a time equal to 00:00:00:00 download the version with the wording "Correct_Hour", otherwise, if the indicator shows 01:00:00:00 downloadthe **Wrong_Hour"**.
 
 ## Requirements
 - You need a Windows PC, the program in not compatible with Mac or Linux.
