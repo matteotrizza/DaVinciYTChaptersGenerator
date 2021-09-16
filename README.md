@@ -10,6 +10,7 @@ Sometimes, on some PCs, DaVinci Resolve has a bug that creates problems in the m
 - In other cases, on other PCs, this problem is not present.
 For this, I ask you to PAY ATTENTION to which version of DaVinciYTChaptersGenerator to download: to check, go to DaVinci, open any project (or create a new one) and go to the beginning of the timeline. If the time indicator shows a time equal to **00:00:00:00** download the version with the wording **"Correct_Hour"**, otherwise, if the indicator shows **01:00:00:00** download the **Wrong_Hour"**.
 ![image](https://user-images.githubusercontent.com/81535145/133614848-8b7d19e0-14ee-46af-bd07-1402dc722182.png)
+![image](https://user-images.githubusercontent.com/81535145/133615450-9e88c845-efc3-425b-970c-7edfe567677b.png)
 
 ## Requirements
 - You need a Windows PC, the program in not compatible with Mac or Linux.
