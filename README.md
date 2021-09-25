@@ -29,7 +29,7 @@ For this, I ask you to PAY ATTENTION to which version of DaVinciYTChaptersGenera
 - Please select the input file (.edl with DaVinci Markers);
 - Now select the output directory, where you will find a file with the final result!
 
-![immagine](https://user-images.githubusercontent.com/81535145/130871010-3897aa38-0f88-4aba-8cb3-5743174299f7.png)
+![image](https://user-images.githubusercontent.com/81535145/134764281-c02351a7-8309-4f9b-af42-17bca5a0e97c.png) ![image](https://user-images.githubusercontent.com/81535145/134764319-2191df61-aa9b-44fd-93a8-1494c4f9bcec.png)
 
 - Boom! Now you will see a new file in the output folder, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
 ---
