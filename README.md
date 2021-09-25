@@ -25,13 +25,13 @@ For this, I ask you to PAY ATTENTION to which version of DaVinciYTChaptersGenera
 - Then, you must export your Resolve marker like EDL file, by right clicking on the Timeline with the timestamp, then going to Timelines > Export > Timeline Marker to EDL;
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130809429-d946a9f3-ac86-4391-9205-bc62e83d4d43.png)
-- Make sure that **the exported EDL File** and **the program (EXE File)** is **in the same folder**: if there isn't a file, the script will **fail** 😔 (if you find it inconvenient, you can access the code and customize it according to your needs);
-- Finally, you can run the program (if you run the program for the first time, your PC may be reporting security issues, but don't warry, I'm not here to steal your data :).
-- You will see a Box, **write the exactly name** of exported file (EDL with markers) and press Enter.
+- Now you can run the program!
+- Please select the input file (.edl with DaVinci Markers);
+- Now select the output directory, where you will find a file with the final result!
 
 ![immagine](https://user-images.githubusercontent.com/81535145/130871010-3897aa38-0f88-4aba-8cb3-5743174299f7.png)
 
-- Boom! Now you will see a new file in the origin folder, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
+- Boom! Now you will see a new file in the output folder, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
 ---
 # Download
 You can download EXE file form [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/V1.0/DaVinciResolveYTChaptersGenerator.exe), and the code from [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/V1.0/Code.for.Developer.ahk) (first read [the notes](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/blob/main/Developers%20Docs.md))
