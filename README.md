@@ -34,4 +34,4 @@ For this, I ask you to PAY ATTENTION to which version of DaVinciYTChaptersGenera
 - Boom! Now you will see a new file in the output folder, named *"YTChapters.txt"*, with **all your Cyan markers**; you are ready to upload your video and paste the text in the description!
 ---
 # Download
-You can download EXE file form [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/V1.0/DaVinciResolveYTChaptersGenerator.exe), and the code from [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases/download/V1.0/Code.for.Developer.ahk) (first read [the notes](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/blob/main/Developers%20Docs.md))
+You can download EXE file and Code from [here](https://github.com/matteotrizza/DaVinciYTChaptersGenerator/releases).
